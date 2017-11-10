@@ -1,0 +1,9 @@
+{"AdWorkstationOU": [
+	{ "FriendlyName" : "MOEWin8-Dev", "OU" : "OU=MOEWin8-Dev,OU=Computers,OU=BCC,DC=ad,DC=bcc,DC=qld,DC=gov,DC=au"},
+	{ "FriendlyName" : "MOEWin8-POC", "OU" : "OU=MOEWin8-POC,OU=Computers,OU=BCC,DC=ad,DC=bcc,DC=qld,DC=gov,DC=au"},
+	{ "FriendlyName" : "MOEvNext-BLANK", "OU" : "OU=BLANK,OU=MOENext,OU=Computers,OU=BCC,DC=ad,DC=bcc,DC=qld,DC=gov,DC=au"},
+	{ "FriendlyName" : "MOEvNext-DEV", "OU" : "OU=DEV,OU=MOENext,OU=Computers,OU=BCC,DC=ad,DC=bcc,DC=qld,DC=gov,DC=au"},
+	{ "FriendlyName" : "MOEvNext-TEST", "OU" : "OU=TEST,OU=MOENext,OU=Computers,OU=BCC,DC=ad,DC=bcc,DC=qld,DC=gov,DC=au"},
+	{ "FriendlyName" : "MOEvNext-PREPROD", "OU" : "OU=PREPROD,OU=MOENext,OU=Computers,OU=BCC,DC=ad,DC=bcc,DC=qld,DC=gov,DC=au"},
+	{ "FriendlyName" : "MOEvNext-PROD", "OU" : "OU=PROD,OU=MOENext,OU=Computers,OU=BCC,DC=ad,DC=bcc,DC=qld,DC=gov,DC=au"} ]
+}

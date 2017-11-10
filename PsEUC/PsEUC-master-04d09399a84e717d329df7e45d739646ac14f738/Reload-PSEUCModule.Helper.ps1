@@ -1,0 +1,1 @@
+﻿Remove-Module pseuc -Force; import-module .\PsEUC.psd1 -Force; get-module
